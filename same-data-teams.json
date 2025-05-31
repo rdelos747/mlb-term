@@ -1,0 +1,166 @@
+{
+  "game": {
+    "pk": 777718,
+    "type": "R",
+    "doubleHeader": "N",
+    "id": "2025/05/30/colmlb-nynmlb-1",
+    "gamedayType": "P",
+    "tiebreaker": "N",
+    "gameNumber": 1,
+    "calendarEventID": "14-777718-2025-05-30",
+    "season": "2025",
+    "seasonDisplay": "2025"
+  },
+  "datetime": {
+    "dateTime": "2025-05-30T23:10:00Z",
+    "originalDate": "2025-05-30",
+    "officialDate": "2025-05-30",
+    "dayNight": "night",
+    "time": "7:10",
+    "ampm": "PM"
+  },
+  "status": {
+    "abstractGameState": "Live",
+    "codedGameState": "I",
+    "detailedState": "In Progress",
+    "statusCode": "I",
+    "startTimeTBD": false,
+    "abstractGameCode": "L"
+  },
+  "teams": {
+    "away": {
+      "springLeague": {
+        "id": 114,
+        "name": "Cactus League",
+        "link": "/api/v1/league/114",
+        "abbreviation": "CL"
+      },
+      "allStarStatus": "N",
+      "id": 115,
+      "name": "Colorado Rockies",
+      "link": "/api/v1/teams/115",
+      "season": 2025,
+      "venue": {
+        "id": 19,
+        "name": "Coors Field",
+        "link": "/api/v1/venues/19"
+      },
+      "springVenue": {
+        "id": 4249,
+        "link": "/api/v1/venues/4249"
+      },
+      "teamCode": "col",
+      "fileCode": "col",
+      "abbreviation": "COL",
+      "teamName": "Rockies",
+      "locationName": "Denver",
+      "firstYearOfPlay": "1992",
+      "league": {
+        "id": 104,
+        "name": "National League",
+        "link": "/api/v1/league/104"
+      },
+      "division": {
+        "id": 203,
+        "name": "National League West",
+        "link": "/api/v1/divisions/203"
+      },
+      "sport": {
+        "id": 1,
+        "link": "/api/v1/sports/1",
+        "name": "Major League Baseball"
+      },
+      "shortName": "Colorado",
+      "record": {
+        "gamesPlayed": 56,
+        "wildCardGamesBack": "-",
+        "leagueGamesBack": "-",
+        "springLeagueGamesBack": "-",
+        "sportGamesBack": "-",
+        "divisionGamesBack": "-",
+        "conferenceGamesBack": "-",
+        "leagueRecord": {
+          "wins": 9,
+          "losses": 47,
+          "ties": 0,
+          "pct": ".161"
+        },
+        "records": {},
+        "divisionLeader": false,
+        "wins": 9,
+        "losses": 47,
+        "winningPercentage": ".161"
+      },
+      "franchiseName": "Colorado",
+      "clubName": "Rockies",
+      "active": true
+    },
+    "home": {
+      "springLeague": {
+        "id": 115,
+        "name": "Grapefruit League",
+        "link": "/api/v1/league/115",
+        "abbreviation": "GL"
+      },
+      "allStarStatus": "N",
+      "id": 121,
+      "name": "New York Mets",
+      "link": "/api/v1/teams/121",
+      "season": 2025,
+      "venue": {
+        "id": 3289,
+        "name": "Citi Field",
+        "link": "/api/v1/venues/3289"
+      },
+      "springVenue": {
+        "id": 2856,
+        "link": "/api/v1/venues/2856"
+      },
+      "teamCode": "nyn",
+      "fileCode": "nym",
+      "abbreviation": "NYM",
+      "teamName": "Mets",
+      "locationName": "Flushing",
+      "firstYearOfPlay": "1962",
+      "league": {
+        "id": 104,
+        "name": "National League",
+        "link": "/api/v1/league/104"
+      },
+      "division": {
+        "id": 204,
+        "name": "National League East",
+        "link": "/api/v1/divisions/204"
+      },
+      "sport": {
+        "id": 1,
+        "link": "/api/v1/sports/1",
+        "name": "Major League Baseball"
+      },
+      "shortName": "NY Mets",
+      "record": {
+        "gamesPlayed": 56,
+        "wildCardGamesBack": "-",
+        "leagueGamesBack": "-",
+        "springLeagueGamesBack": "-",
+        "sportGamesBack": "-",
+        "divisionGamesBack": "-",
+        "conferenceGamesBack": "-",
+        "leagueRecord": {
+          "wins": 34,
+          "losses": 22,
+          "ties": 0,
+          "pct": ".607"
+        },
+        "records": {},
+        "divisionLeader": false,
+        "wins": 34,
+        "losses": 22,
+        "winningPercentage": ".607"
+      },
+      "franchiseName": "New York",
+      "clubName": "Mets",
+      "active": true
+    }
+  }
+}
