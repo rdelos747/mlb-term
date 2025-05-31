@@ -1,0 +1,253 @@
+[
+  {
+    "details": {
+      "call": {
+        "code": "B",
+        "description": "Ball"
+      },
+      "description": "Ball",
+      "code": "B",
+      "ballColor": "rgba(39, 161, 39, 1.0)",
+      "trailColor": "rgba(0, 0, 254, 1.0)",
+      "isInPlay": false,
+      "isStrike": false,
+      "isBall": true,
+      "type": {
+        "code": "SL",
+        "description": "Slider"
+      },
+      "isOut": false,
+      "hasReview": false,
+      "runnerGoing": true
+    },
+    "count": {
+      "balls": 1,
+      "strikes": 0,
+      "outs": 2
+    },
+    "pitchData": {
+      "startSpeed": 87.5,
+      "endSpeed": 80.8,
+      "strikeZoneTop": 3.5196284158743,
+      "strikeZoneBottom": 1.62955990987373,
+      "coordinates": {
+        "aY": 25.4077953606892,
+        "aZ": -24.637486140923873,
+        "pfxX": -2.8080701016443745,
+        "pfxZ": 4.571441733570454,
+        "pX": -1.5024329228197988,
+        "pZ": 1.1424045445449378,
+        "vX0": -3.319981060744033,
+        "vY0": -127.34847220520562,
+        "vZ0": -6.990036652889474,
+        "x": 174.27,
+        "y": 207.94,
+        "x0": 0.1813466890776143,
+        "y0": 50.00074240147531,
+        "z0": 5.863210077902111,
+        "aX": -4.624662304348109
+      },
+      "breaks": {
+        "breakAngle": 10.8,
+        "breakLength": 6,
+        "breakY": 24,
+        "breakVertical": -28.7,
+        "breakVerticalInduced": 7,
+        "breakHorizontal": 5.8,
+        "spinRate": 2370,
+        "spinDirection": 200
+      },
+      "zone": 13,
+      "typeConfidence": 0.86,
+      "plateTime": 0.4296047512408454,
+      "extension": 6.332945237233778
+    },
+    "index": 0,
+    "playId": "172a03ee-3df2-3469-b71d-42758395c705",
+    "pitchNumber": 1,
+    "startTime": "2025-05-31T05:02:22.569Z",
+    "endTime": "2025-05-31T05:02:29.168Z",
+    "isPitch": true,
+    "type": "pitch"
+  },
+  {
+    "details": {
+      "description": "Trent Grisham advances to 2nd on defensive indifference.",
+      "event": "Defensive Indiff",
+      "eventType": "defensive_indiff",
+      "awayScore": 5,
+      "homeScore": 8,
+      "isScoringPlay": false,
+      "isOut": false,
+      "hasReview": false
+    },
+    "count": {
+      "balls": 1,
+      "strikes": 0,
+      "outs": 2
+    },
+    "index": 1,
+    "actionPlayId": "172a03ee-3df2-3469-b71d-42758395c705",
+    "startTime": "2025-05-31T05:02:33.539Z",
+    "endTime": "2025-05-31T05:02:45.051Z",
+    "isPitch": false,
+    "isBaseRunningPlay": true,
+    "type": "action",
+    "player": {
+      "id": 663757,
+      "link": "/api/v1/people/663757"
+    }
+  },
+  {
+    "details": {
+      "call": {
+        "code": "C",
+        "description": "Called Strike"
+      },
+      "description": "Called Strike",
+      "code": "C",
+      "ballColor": "rgba(170, 21, 11, 1.0)",
+      "trailColor": "rgba(188, 0, 33, 1.0)",
+      "isInPlay": false,
+      "isStrike": true,
+      "isBall": false,
+      "type": {
+        "code": "FF",
+        "description": "Four-Seam Fastball"
+      },
+      "isOut": false,
+      "hasReview": false
+    },
+    "count": {
+      "balls": 1,
+      "strikes": 1,
+      "outs": 2
+    },
+    "pitchData": {
+      "startSpeed": 94.5,
+      "endSpeed": 85.7,
+      "strikeZoneTop": 3.47841273433496,
+      "strikeZoneBottom": 1.64923255466911,
+      "coordinates": {
+        "aY": 32.872516850593875,
+        "aZ": -8.409294576480589,
+        "pfxX": 3.049095807376127,
+        "pfxZ": 12.526677381447673,
+        "pX": 0.41088630093318596,
+        "pZ": 2.740249104955055,
+        "vX0": -0.6240226612296282,
+        "vY0": -137.4520290155622,
+        "vZ0": -6.450673580263317,
+        "x": 101.34,
+        "y": 164.79,
+        "x0": 0.24608399751761575,
+        "y0": 50.003319330409795,
+        "z0": 5.700949144139304,
+        "aX": 5.785164421827238
+      },
+      "breaks": {
+        "breakAngle": 30,
+        "breakLength": 2.4,
+        "breakY": 24,
+        "breakVertical": -9.5,
+        "breakVerticalInduced": 21.4,
+        "breakHorizontal": -5.4,
+        "spinRate": 2541,
+        "spinDirection": 165
+      },
+      "zone": 6,
+      "typeConfidence": 0.9,
+      "plateTime": 0.39978367572806617,
+      "extension": 6.266874682655013
+    },
+    "index": 2,
+    "playId": "e4755602-4586-3cb2-ad41-c0d4f59e06a5",
+    "pitchNumber": 2,
+    "startTime": "2025-05-31T05:02:45.051Z",
+    "endTime": "2025-05-31T05:02:48.581Z",
+    "isPitch": true,
+    "type": "pitch"
+  },
+  {
+    "details": {
+      "call": {
+        "code": "X",
+        "description": "In play, out(s)"
+      },
+      "description": "In play, out(s)",
+      "code": "X",
+      "ballColor": "rgba(26, 86, 190, 1.0)",
+      "trailColor": "rgba(0, 0, 254, 1.0)",
+      "isInPlay": true,
+      "isStrike": false,
+      "isBall": false,
+      "type": {
+        "code": "SL",
+        "description": "Slider"
+      },
+      "isOut": true,
+      "hasReview": false
+    },
+    "count": {
+      "balls": 1,
+      "strikes": 1,
+      "outs": 2
+    },
+    "pitchData": {
+      "startSpeed": 86.8,
+      "endSpeed": 80.2,
+      "strikeZoneTop": 3.54,
+      "strikeZoneBottom": 1.66,
+      "coordinates": {
+        "aY": 24.37661342122621,
+        "aZ": -24.389414124269376,
+        "pfxX": -4.766098428005076,
+        "pfxZ": 4.788828983101868,
+        "pX": -0.7634841582290288,
+        "pZ": 2.0988295323736246,
+        "vX0": -1.1133204634070633,
+        "vY0": -126.38289359504621,
+        "vZ0": -4.72377205085608,
+        "x": 146.1,
+        "y": 182.11,
+        "x0": 0.30165440875225596,
+        "y0": 50.00631762304813,
+        "z0": 5.937320192928494,
+        "aX": -7.755695271258271
+      },
+      "breaks": {
+        "breakAngle": 18,
+        "breakLength": 6,
+        "breakY": 24,
+        "breakVertical": -28.2,
+        "breakVerticalInduced": 7.9,
+        "breakHorizontal": 8.9,
+        "spinRate": 2340,
+        "spinDirection": 198
+      },
+      "zone": 7,
+      "typeConfidence": 0.9,
+      "plateTime": 0.43243370291856076,
+      "extension": 6.332471295887241
+    },
+    "hitData": {
+      "launchSpeed": 99.5,
+      "launchAngle": 8,
+      "totalDistance": 134,
+      "trajectory": "line_drive",
+      "hardness": "medium",
+      "location": "5",
+      "coordinates": {
+        "coordX": 90.68,
+        "coordY": 160.98
+      }
+    },
+    "index": 3,
+    "playId": "71843f8f-3fb3-36e7-b2bf-29d6a8f4664e",
+    "pitchNumber": 3,
+    "startTime": "2025-05-31T05:03:04.604Z",
+    "endTime": "2025-05-31T05:03:10.863Z",
+    "isPitch": true,
+    "type": "pitch"
+  }
+]
