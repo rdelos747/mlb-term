@@ -1,0 +1,1155 @@
+[
+  {
+    "startIndex": 0,
+    "endIndex": 11,
+    "top": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "bottom": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "hits": {
+      "away": [
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 1,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 678662,
+            "fullName": "Ezequiel Tovar",
+            "link": "/api/v1/people/678662"
+          },
+          "coordinates": {
+            "x": 26.22,
+            "y": 83.28
+          },
+          "type": "H",
+          "description": "Home Run"
+        }
+      ],
+      "home": [
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 1,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 596019,
+            "fullName": "Francisco Lindor",
+            "link": "/api/v1/people/596019"
+          },
+          "coordinates": {
+            "x": 94.9,
+            "y": 114.72
+          },
+          "type": "H",
+          "description": "Single"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 1,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 607043,
+            "fullName": "Brandon Nimmo",
+            "link": "/api/v1/people/607043"
+          },
+          "coordinates": {
+            "x": 114.5,
+            "y": 77.9
+          },
+          "type": "H",
+          "description": "Single"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 1,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 683146,
+            "fullName": "Brett Baty",
+            "link": "/api/v1/people/683146"
+          },
+          "coordinates": {
+            "x": 100.54,
+            "y": 40.16
+          },
+          "type": "H",
+          "description": "Triple"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 1,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 676724,
+            "fullName": "Jared Young",
+            "link": "/api/v1/people/676724"
+          },
+          "coordinates": {
+            "x": 132.73,
+            "y": 158.63
+          },
+          "type": "O",
+          "description": "Lineout"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 1,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 621438,
+            "fullName": "Tyrone Taylor",
+            "link": "/api/v1/people/621438"
+          },
+          "coordinates": {
+            "x": 160.71,
+            "y": 74.46
+          },
+          "type": "H",
+          "description": "Single"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 1,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 643446,
+            "fullName": "Jeff McNeil",
+            "link": "/api/v1/people/643446"
+          },
+          "coordinates": {
+            "x": 114.82,
+            "y": 171.45
+          },
+          "type": "O",
+          "description": "Groundout"
+        }
+      ]
+    }
+  },
+  {
+    "startIndex": 12,
+    "endIndex": 18,
+    "top": [
+      12,
+      13,
+      14
+    ],
+    "bottom": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "hits": {
+      "away": [
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 2,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 642731,
+            "fullName": "Thairo Estrada",
+            "link": "/api/v1/people/642731"
+          },
+          "coordinates": {
+            "x": 116.34,
+            "y": 165.87
+          },
+          "type": "O",
+          "description": "Groundout"
+        }
+      ],
+      "home": [
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 2,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 607043,
+            "fullName": "Brandon Nimmo",
+            "link": "/api/v1/people/607043"
+          },
+          "coordinates": {
+            "x": 146.75,
+            "y": 159.79
+          },
+          "type": "O",
+          "description": "Forceout"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 2,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 665742,
+            "fullName": "Juan Soto",
+            "link": "/api/v1/people/665742"
+          },
+          "coordinates": {
+            "x": 88.47,
+            "y": 192.73
+          },
+          "type": "O",
+          "description": "Pop Out"
+        }
+      ]
+    }
+  },
+  {
+    "startIndex": 19,
+    "endIndex": 25,
+    "top": [
+      19,
+      20,
+      21
+    ],
+    "bottom": [
+      22,
+      23,
+      24,
+      25
+    ],
+    "hits": {
+      "away": [
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 3,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 571657,
+            "fullName": "Kyle Farmer",
+            "link": "/api/v1/people/571657"
+          },
+          "coordinates": {
+            "x": 96.09,
+            "y": 172.31
+          },
+          "type": "O",
+          "description": "Groundout"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 3,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 666160,
+            "fullName": "Mickey Moniak",
+            "link": "/api/v1/people/666160"
+          },
+          "coordinates": {
+            "x": 84.42,
+            "y": 184.11
+          },
+          "type": "O",
+          "description": "Pop Out"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 3,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 687597,
+            "fullName": "Jordan Beck",
+            "link": "/api/v1/people/687597"
+          },
+          "coordinates": {
+            "x": 104.73,
+            "y": 117.33
+          },
+          "type": "O",
+          "description": "Flyout"
+        }
+      ],
+      "home": [
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 3,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 624413,
+            "fullName": "Pete Alonso",
+            "link": "/api/v1/people/624413"
+          },
+          "coordinates": {
+            "x": 105.2,
+            "y": 174.99
+          },
+          "type": "H",
+          "description": "Single"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 3,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 683146,
+            "fullName": "Brett Baty",
+            "link": "/api/v1/people/683146"
+          },
+          "coordinates": {
+            "x": 140.17,
+            "y": 150.44
+          },
+          "type": "O",
+          "description": "Fielders Choice"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 3,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 676724,
+            "fullName": "Jared Young",
+            "link": "/api/v1/people/676724"
+          },
+          "coordinates": {
+            "x": 148.27,
+            "y": 171.95
+          },
+          "type": "O",
+          "description": "Grounded Into DP"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 3,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 621438,
+            "fullName": "Tyrone Taylor",
+            "link": "/api/v1/people/621438"
+          },
+          "coordinates": {
+            "x": 115.84,
+            "y": 163.84
+          },
+          "type": "O",
+          "description": "Groundout"
+        }
+      ]
+    }
+  },
+  {
+    "startIndex": 26,
+    "endIndex": 34,
+    "top": [
+      26,
+      27,
+      28
+    ],
+    "bottom": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "hits": {
+      "away": [
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 4,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 678662,
+            "fullName": "Ezequiel Tovar",
+            "link": "/api/v1/people/678662"
+          },
+          "coordinates": {
+            "x": 115.45,
+            "y": 47.58
+          },
+          "type": "O",
+          "description": "Flyout"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 4,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 696100,
+            "fullName": "Hunter Goodman",
+            "link": "/api/v1/people/696100"
+          },
+          "coordinates": {
+            "x": 118.29,
+            "y": 101.23
+          },
+          "type": "O",
+          "description": "Flyout"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 4,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 641857,
+            "fullName": "Ryan McMahon",
+            "link": "/api/v1/people/641857"
+          },
+          "coordinates": {
+            "x": 66.11,
+            "y": 111.71
+          },
+          "type": "O",
+          "description": "Flyout"
+        }
+      ],
+      "home": [
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 4,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 643446,
+            "fullName": "Jeff McNeil",
+            "link": "/api/v1/people/643446"
+          },
+          "coordinates": {
+            "x": 152.32,
+            "y": 154.72
+          },
+          "type": "E",
+          "description": "Field Error"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 4,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 682626,
+            "fullName": "Francisco Alvarez",
+            "link": "/api/v1/people/682626"
+          },
+          "coordinates": {
+            "x": 133.57,
+            "y": 148.14
+          },
+          "type": "O",
+          "description": "Grounded Into DP"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 4,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 596019,
+            "fullName": "Francisco Lindor",
+            "link": "/api/v1/people/596019"
+          },
+          "coordinates": {
+            "x": 179,
+            "y": 123
+          },
+          "type": "H",
+          "description": "Single"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 4,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 607043,
+            "fullName": "Brandon Nimmo",
+            "link": "/api/v1/people/607043"
+          },
+          "coordinates": {
+            "x": 174.85,
+            "y": 37.31
+          },
+          "type": "H",
+          "description": "Home Run"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 4,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 665742,
+            "fullName": "Juan Soto",
+            "link": "/api/v1/people/665742"
+          },
+          "coordinates": {
+            "x": 99.46,
+            "y": 37.7
+          },
+          "type": "H",
+          "description": "Home Run"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 4,
+          "pitcher": {
+            "id": 622608,
+            "fullName": "Antonio Senzatela",
+            "link": "/api/v1/people/622608"
+          },
+          "batter": {
+            "id": 624413,
+            "fullName": "Pete Alonso",
+            "link": "/api/v1/people/624413"
+          },
+          "coordinates": {
+            "x": 179.45,
+            "y": 163.44
+          },
+          "type": "O",
+          "description": "Pop Out"
+        }
+      ]
+    }
+  },
+  {
+    "startIndex": 35,
+    "endIndex": 42,
+    "top": [
+      35,
+      36,
+      37
+    ],
+    "bottom": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "hits": {
+      "away": [
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 5,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 642731,
+            "fullName": "Thairo Estrada",
+            "link": "/api/v1/people/642731"
+          },
+          "coordinates": {
+            "x": 110.69,
+            "y": 165.88
+          },
+          "type": "O",
+          "description": "Groundout"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 5,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 656541,
+            "fullName": "Sam Hilliard",
+            "link": "/api/v1/people/656541"
+          },
+          "coordinates": {
+            "x": 136.61,
+            "y": 155.74
+          },
+          "type": "O",
+          "description": "Groundout"
+        }
+      ],
+      "home": [
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 5,
+          "pitcher": {
+            "id": 669020,
+            "fullName": "Ryan Rolison",
+            "link": "/api/v1/people/669020"
+          },
+          "batter": {
+            "id": 683146,
+            "fullName": "Brett Baty",
+            "link": "/api/v1/people/683146"
+          },
+          "coordinates": {
+            "x": 95.72,
+            "y": 108.33
+          },
+          "type": "O",
+          "description": "Flyout"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 5,
+          "pitcher": {
+            "id": 669020,
+            "fullName": "Ryan Rolison",
+            "link": "/api/v1/people/669020"
+          },
+          "batter": {
+            "id": 676724,
+            "fullName": "Jared Young",
+            "link": "/api/v1/people/676724"
+          },
+          "coordinates": {
+            "x": 159.08,
+            "y": 151.5
+          },
+          "type": "H",
+          "description": "Single"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 115,
+              "name": "Grapefruit League",
+              "link": "/api/v1/league/115",
+              "abbreviation": "GL"
+            },
+            "allStarStatus": "N",
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "inning": 5,
+          "pitcher": {
+            "id": 669020,
+            "fullName": "Ryan Rolison",
+            "link": "/api/v1/people/669020"
+          },
+          "batter": {
+            "id": 643446,
+            "fullName": "Jeff McNeil",
+            "link": "/api/v1/people/643446"
+          },
+          "coordinates": {
+            "x": 145.74,
+            "y": 166.88
+          },
+          "type": "O",
+          "description": "Forceout"
+        }
+      ]
+    }
+  },
+  {
+    "startIndex": 43,
+    "endIndex": 46,
+    "top": [
+      43,
+      44,
+      45
+    ],
+    "bottom": [
+      46
+    ],
+    "hits": {
+      "away": [
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 6,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 571657,
+            "fullName": "Kyle Farmer",
+            "link": "/api/v1/people/571657"
+          },
+          "coordinates": {
+            "x": 153.71,
+            "y": 109.83
+          },
+          "type": "O",
+          "description": "Flyout"
+        },
+        {
+          "team": {
+            "springLeague": {
+              "id": 114,
+              "name": "Cactus League",
+              "link": "/api/v1/league/114",
+              "abbreviation": "CL"
+            },
+            "allStarStatus": "N",
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "inning": 6,
+          "pitcher": {
+            "id": 673540,
+            "fullName": "Kodai Senga",
+            "link": "/api/v1/people/673540"
+          },
+          "batter": {
+            "id": 666160,
+            "fullName": "Mickey Moniak",
+            "link": "/api/v1/people/666160"
+          },
+          "coordinates": {
+            "x": 144.22,
+            "y": 169.92
+          },
+          "type": "O",
+          "description": "Groundout"
+        }
+      ],
+      "home": []
+    }
+  }
+]
